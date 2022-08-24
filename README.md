@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2022 - To: 22 August 2022
+From: 16 August 2022 - To: 23 August 2022
 
-Total Time: 43 hrs 54 mins
+Total Time: 42 hrs 56 mins
 
-C#                        36 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>>----   82.28 %
-Markdown                  1 hr 58 mins    >------------------------   04.50 %
-JSON                      1 hr 31 mins    >------------------------   03.48 %
-YAML                      1 hr 27 mins    >------------------------   03.32 %
-Project file properties   40 mins         -------------------------   01.55 %
-Csproj                    36 mins         -------------------------   01.40 %
+C#                        36 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>>----   84.22 %
+Markdown                  2 hrs 7 mins    >------------------------   04.94 %
+SQL                       45 mins         -------------------------   01.75 %
+YAML                      43 mins         -------------------------   01.70 %
+JSON                      40 mins         -------------------------   01.59 %
+PowerShell                31 mins         -------------------------   01.23 %
 ```
 
 <!--END_SECTION:waka-->
