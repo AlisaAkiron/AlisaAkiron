@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 August 2022 - To: 23 August 2022
+From: 17 August 2022 - To: 24 August 2022
 
-Total Time: 42 hrs 56 mins
+Total Time: 38 hrs 23 mins
 
-C#                        36 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>>----   84.22 %
-Markdown                  2 hrs 7 mins    >------------------------   04.94 %
-SQL                       45 mins         -------------------------   01.75 %
-YAML                      43 mins         -------------------------   01.70 %
-JSON                      40 mins         -------------------------   01.59 %
-PowerShell                31 mins         -------------------------   01.23 %
+C#                     34 hrs 39 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.30 %
+SQL                    45 mins         -------------------------   01.96 %
+Markdown               43 mins         -------------------------   01.88 %
+Docker                 26 mins         -------------------------   01.13 %
+Csproj                 25 mins         -------------------------   01.09 %
+JSON                   24 mins         -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->
