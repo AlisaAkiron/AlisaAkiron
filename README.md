@@ -44,13 +44,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 02 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
-Total Time: 17 hrs 53 mins
+Total Time: 5 hrs 27 mins
 
-C#                        15 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>>----   84.35 %
-JSON                      1 hr 12 mins    >>-----------------------   06.78 %
-Other                     16 mins         -------------------------   01.53 %
+C#              3 hrs 31 mins   >>>>>>>>>>>>>>>>---------   64.70 %
+JSON            51 mins         >>>>---------------------   15.82 %
+Other           16 mins         >------------------------   05.01 %
 ```
 
 <!--END_SECTION:waka-->
