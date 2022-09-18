@@ -44,12 +44,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
-Total Time: 33 hrs 30 mins
+Total Time: 35 hrs 14 mins
 
-C#         32 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.05 %
-Other      17 mins         -------------------------   00.85 %
+C#         34 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.98 %
+Other      17 mins         -------------------------   00.81 %
 ```
 
 <!--END_SECTION:waka-->
