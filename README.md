@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-Total Time: 38 hrs 42 mins
+Total Time: 37 hrs 51 mins
 
-C#                        37 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.74 %
-XML                       17 mins         -------------------------   00.77 %
-JSON                      15 mins         -------------------------   00.65 %
-Csproj                    13 mins         -------------------------   00.60 %
-PowerShell                2 mins          -------------------------   00.09 %
-Project file properties   1 min           -------------------------   00.05 %
+C#                        36 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.51 %
+XML                       21 mins         -------------------------   00.96 %
+JSON                      15 mins         -------------------------   00.67 %
+Csproj                    13 mins         -------------------------   00.61 %
+PowerShell                2 mins          -------------------------   00.10 %
+Project file properties   1 min           -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
