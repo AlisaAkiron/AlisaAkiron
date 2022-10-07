@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
+From: 29 September 2022 - To: 06 October 2022
 
-Total Time: 22 hrs 17 mins
+Total Time: 20 hrs 54 mins
 
-YAML            12 hrs 5 mins   >>>>>>>>>>>>>>-----------   54.27 %
-C#              2 hrs 57 mins   >>>----------------------   13.28 %
-HTML            2 hrs 57 mins   >>>----------------------   13.27 %
-XML             2 hrs 40 mins   >>>----------------------   11.99 %
-Other           42 mins         >------------------------   03.18 %
+YAML            12 hrs 25 mins  >>>>>>>>>>>>>>>----------   59.46 %
+HTML            2 hrs 57 mins   >>>>---------------------   14.15 %
+XML             2 hrs 39 mins   >>>----------------------   12.73 %
+C#              1 hr 2 mins     >------------------------   04.95 %
+Other           42 mins         >------------------------   03.39 %
 ```
 
 <!--END_SECTION:waka-->
