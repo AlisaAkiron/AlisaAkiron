@@ -44,14 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 15 October 2022
+From: 09 October 2022 - To: 16 October 2022
 
-Total Time: 16 hrs 2 mins
+Total Time: 23 hrs 15 mins
 
-YAML         15 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.47 %
-Python       34 mins         >------------------------   03.57 %
-Markdown     16 mins         -------------------------   01.66 %
-Other        2 mins          -------------------------   00.27 %
+YAML         21 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.99 %
+Markdown     42 mins         >------------------------   03.05 %
+Python       38 mins         >------------------------   02.77 %
+Other        2 mins          -------------------------   00.19 %
 ```
 
 <!--END_SECTION:waka-->
