@@ -44,13 +44,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 October 2022 - To: 29 October 2022
+From: 23 October 2022 - To: 30 October 2022
 
-Total Time: 29 hrs 45 mins
+Total Time: 24 hrs 46 mins
 
-YAML             17 hrs 6 mins   >>>>>>>>>>>>>>-----------   57.51 %
-PHP              3 hrs 53 mins   >>>----------------------   13.08 %
-Other            1 hr 49 mins    >>-----------------------   06.11 %
+YAML             13 hrs 58 mins  >>>>>>>>>>>>>>-----------   56.42 %
+PHP              3 hrs 41 mins   >>>>---------------------   14.93 %
+Other            1 hr 27 mins    >------------------------   05.86 %
 ```
 
 <!--END_SECTION:waka-->
