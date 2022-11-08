@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 06 November 2022
+From: 31 October 2022 - To: 07 November 2022
 
-Total Time: 14 hrs 34 mins
+Total Time: 17 hrs 39 mins
 
-YAML                       11 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>-----   81.17 %
-Docker                     39 mins         >------------------------   04.49 %
-Java                       25 mins         >------------------------   02.88 %
-C#                         21 mins         >------------------------   02.46 %
-JavaScript                 21 mins         >------------------------   02.45 %
-XML                        10 mins         -------------------------   01.20 %
+YAML            14 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>-----   80.66 %
+C#              1 hr 33 mins    >>-----------------------   08.86 %
+Java            25 mins         >------------------------   02.38 %
+JavaScript      21 mins         >------------------------   02.02 %
+XML             14 mins         -------------------------   01.35 %
+Other           7 mins          -------------------------   00.73 %
 ```
 
 <!--END_SECTION:waka-->
