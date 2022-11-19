@@ -44,12 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
-Total Time: 6 hrs 55 mins
+Total Time: 2 hrs 59 mins
 
-YAML            4 hrs 57 mins   >>>>>>>>>>>>>>>>>>-------   71.67 %
-Other           1 hr 28 mins    >>>>>--------------------   21.32 %
+YAML             42 mins         >>>>>>-------------------   23.79 %
+JSON             39 mins         >>>>>--------------------   21.89 %
+C#               28 mins         >>>>---------------------   15.93 %
+TOML             27 mins         >>>>---------------------   15.54 %
+Other            27 mins         >>>>---------------------   15.39 %
 ```
 
 <!--END_SECTION:waka-->
