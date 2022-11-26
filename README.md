@@ -44,16 +44,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 24 November 2022
+From: 18 November 2022 - To: 25 November 2022
 
-Total Time: 1 hr 55 mins
+Total Time: 1 hr 36 mins
 
-JSON             51 mins         >>>>>>>>>>>--------------   44.51 %
-TOML             26 mins         >>>>>>-------------------   23.06 %
-YAML             14 mins         >>>----------------------   12.15 %
-C#               10 mins         >>-----------------------   08.65 %
-Java             6 mins          >------------------------   05.89 %
-INI              2 mins          -------------------------   01.76 %
+Other    1 hr            >>>>>>>>>>>>>>>>---------   62.66 %
 ```
 
 <!--END_SECTION:waka-->
