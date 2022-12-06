@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
-Total Time: 13 mins
+Total Time: 1 hr 40 mins
 
-C#                7 mins          >>>>>>>>>>>>>>-----------   57.32 %
-GitIgnore file    2 mins          >>>>>--------------------   18.17 %
-YAML              2 mins          >>>>---------------------   17.68 %
-protobuf          0 secs          >------------------------   02.05 %
-CSHTML            0 secs          -------------------------   01.76 %
-Protocol Buffer   0 secs          -------------------------   01.06 %
+JSON              1 hr 28 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.02 %
+C#                7 mins          >>-----------------------   07.77 %
+GitIgnore file    2 mins          >------------------------   02.46 %
+YAML              0 secs          -------------------------   00.94 %
+protobuf          0 secs          -------------------------   00.28 %
+CSHTML            0 secs          -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
