@@ -44,15 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 08 December 2022
+From: 02 December 2022 - To: 09 December 2022
 
-Total Time: 5 hrs 18 mins
+Total Time: 7 hrs 11 mins
 
-JSON                      3 hrs 13 mins   >>>>>>>>>>>>>>>----------   60.63 %
-YAML                      45 mins         >>>>---------------------   14.23 %
-C#                        36 mins         >>>----------------------   11.56 %
-SQL                       13 mins         >------------------------   04.18 %
-Other                     10 mins         >------------------------   03.17 %
+JSON                      3 hrs 15 mins   >>>>>>>>>>>--------------   45.16 %
+C#                        1 hr 55 mins    >>>>>>>------------------   26.82 %
+YAML                      45 mins         >>>----------------------   10.49 %
+Other                     18 mins         >------------------------   04.37 %
 ```
 
 <!--END_SECTION:waka-->
