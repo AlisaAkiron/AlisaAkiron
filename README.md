@@ -44,14 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 13 December 2022
+From: 07 December 2022 - To: 14 December 2022
 
-Total Time: 11 hrs
+Total Time: 10 hrs 26 mins
 
-YAML                      4 hrs 33 mins   >>>>>>>>>>---------------   41.40 %
-C#                        2 hrs 1 min     >>>>>--------------------   18.35 %
-Docker                    1 hr 30 mins    >>>----------------------   13.65 %
-Other                     41 mins         >>-----------------------   06.29 %
+YAML                      3 hrs 59 mins   >>>>>>>>>>---------------   38.24 %
+C#                        2 hrs 1 min     >>>>>--------------------   19.33 %
+Docker                    1 hr 30 mins    >>>>---------------------   14.39 %
+Other                     41 mins         >>-----------------------   06.63 %
 ```
 
 <!--END_SECTION:waka-->
