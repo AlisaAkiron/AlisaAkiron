@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
+From: 13 December 2022 - To: 20 December 2022
 
-Total Time: 13 hrs 54 mins
+Total Time: 14 hrs 52 mins
 
-C#                        7 hrs 8 mins    >>>>>>>>>>>>>------------   51.31 %
-Blazor                    3 hrs 59 mins   >>>>>>>------------------   28.66 %
-HTML                      33 mins         >------------------------   04.06 %
-YAML                      31 mins         >------------------------   03.80 %
-JSON                      18 mins         >------------------------   02.20 %
-XML                       16 mins         -------------------------   01.98 %
+C#                        7 hrs 8 mins    >>>>>>>>>>>>-------------   47.98 %
+Blazor                    3 hrs 59 mins   >>>>>>>------------------   26.80 %
+TypeScript                39 mins         >------------------------   04.40 %
+JSON                      34 mins         >------------------------   03.89 %
+HTML                      33 mins         >------------------------   03.80 %
+YAML                      32 mins         >------------------------   03.68 %
 ```
 
 <!--END_SECTION:waka-->
