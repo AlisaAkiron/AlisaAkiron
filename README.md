@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 25 December 2022
+From: 19 December 2022 - To: 26 December 2022
 
-Total Time: 8 hrs 29 mins
+Total Time: 7 hrs 20 mins
 
-TypeScript                2 hrs 3 mins    >>>>>>-------------------   24.23 %
-C#                        1 hr 53 mins    >>>>>>-------------------   22.24 %
-YAML                      44 mins         >>-----------------------   08.73 %
-Markdown                  39 mins         >>-----------------------   07.66 %
-textmate                  38 mins         >>-----------------------   07.49 %
-XML                       26 mins         >------------------------   05.20 %
+TypeScript                2 hrs 3 mins    >>>>>>>------------------   28.01 %
+C#                        58 mins         >>>----------------------   13.19 %
+YAML                      44 mins         >>>----------------------   10.09 %
+Markdown                  39 mins         >>-----------------------   08.86 %
+textmate                  38 mins         >>-----------------------   08.66 %
+Other                     26 mins         >------------------------   05.94 %
 ```
 
 <!--END_SECTION:waka-->
