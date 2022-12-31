@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-Total Time: 4 hrs 10 mins
+Total Time: 27 mins
 
-TypeScript                57 mins         >>>>>>-------------------   22.76 %
-YAML                      34 mins         >>>----------------------   13.78 %
-textmate                  28 mins         >>>----------------------   11.39 %
-Markdown                  27 mins         >>>----------------------   10.92 %
-C#                        22 mins         >>-----------------------   09.02 %
-Other                     20 mins         >>-----------------------   08.10 %
+C#                        18 mins         >>>>>>>>>>>>>>>>>--------   67.09 %
+textmate                  2 mins          >>-----------------------   08.12 %
+EditorConfig              1 min           >>-----------------------   07.17 %
+Project file properties   1 min           >>-----------------------   06.60 %
+INI                       0 secs          >------------------------   03.61 %
+Markdown                  0 secs          >------------------------   02.08 %
 ```
 
 <!--END_SECTION:waka-->
