@@ -44,16 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
-
-Total Time: 27 mins
-
-C#                        18 mins         >>>>>>>>>>>>>>>>>--------   67.09 %
-textmate                  2 mins          >>-----------------------   08.12 %
-EditorConfig              1 min           >>-----------------------   07.17 %
-Project file properties   1 min           >>-----------------------   06.60 %
-INI                       0 secs          >------------------------   03.61 %
-Markdown                  0 secs          >------------------------   02.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
