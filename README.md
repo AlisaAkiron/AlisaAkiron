@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
-Total Time: 7 hrs 30 mins
+Total Time: 8 hrs 3 mins
 
-C#                        5 hrs 32 mins   >>>>>>>>>>>>>>>>>>-------   73.84 %
-JSON                      30 mins         >>-----------------------   06.71 %
-Python                    22 mins         >------------------------   04.95 %
-XML                       19 mins         >------------------------   04.35 %
-YAML                      9 mins          >------------------------   02.06 %
-Markdown                  7 mins          -------------------------   01.56 %
+C#                        5 hrs 41 mins   >>>>>>>>>>>>>>>>>>-------   70.68 %
+JSON                      47 mins         >>-----------------------   09.83 %
+Python                    22 mins         >------------------------   04.62 %
+XML                       19 mins         >------------------------   04.06 %
+YAML                      9 mins          -------------------------   01.92 %
+Other                     8 mins          -------------------------   01.84 %
 ```
 
 <!--END_SECTION:waka-->
