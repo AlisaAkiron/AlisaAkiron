@@ -44,12 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 January 2023 - To: 16 January 2023
+From: 10 January 2023 - To: 17 January 2023
 
-Total Time: 1 hr
+Total Time: 2 hrs 51 mins
 
-JSON         31 mins         >>>>>>>>>>>>>------------   52.15 %
-Other        22 mins         >>>>>>>>>----------------   36.47 %
+YAML         1 hr 15 mins    >>>>>>>>>>>--------------   44.07 %
+Docker       45 mins         >>>>>>>------------------   26.30 %
+JSON         31 mins         >>>>>--------------------   18.49 %
+Other        13 mins         >>-----------------------   07.92 %
 ```
 
 <!--END_SECTION:waka-->
