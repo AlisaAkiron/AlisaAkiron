@@ -44,14 +44,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 28 January 2023
+From: 22 January 2023 - To: 29 January 2023
 
-Total Time: 8 hrs 52 mins
+Total Time: 6 hrs 56 mins
 
-Vue.js       2 hrs 40 mins   >>>>>>>>-----------------   30.16 %
-Python       1 hr 26 mins    >>>>---------------------   16.34 %
-YAML         1 hr 16 mins    >>>>---------------------   14.40 %
-Other        1 hr 4 mins     >>>----------------------   12.16 %
+Vue.js       2 hrs 40 mins   >>>>>>>>>>---------------   38.52 %
+Other        1 hr 4 mins     >>>>---------------------   15.53 %
 ```
 
 <!--END_SECTION:waka-->
