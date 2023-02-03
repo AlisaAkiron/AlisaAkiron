@@ -44,13 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 01 February 2023
+From: 26 January 2023 - To: 02 February 2023
 
-Total Time: 1 hr 46 mins
+Total Time: 2 hrs 5 mins
 
-TOML         40 mins         >>>>>>>>>>---------------   38.31 %
-YAML         34 mins         >>>>>>>>-----------------   32.37 %
-Other        12 mins         >>>----------------------   11.52 %
+TOML         40 mins         >>>>>>>>-----------------   32.55 %
+YAML         34 mins         >>>>>>>------------------   27.51 %
+C#           20 mins         >>>>---------------------   16.17 %
+Other        12 mins         >>-----------------------   09.79 %
 ```
 
 <!--END_SECTION:waka-->
