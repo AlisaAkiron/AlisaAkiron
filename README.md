@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 15 February 2023
+From: 09 February 2023 - To: 16 February 2023
 
-Total Time: 30 hrs 45 mins
+Total Time: 34 hrs 35 mins
 
-Java                      15 hrs 5 mins   >>>>>>>>>>>>-------------   49.08 %
-C#                        10 hrs 6 mins   >>>>>>>>-----------------   32.84 %
-YAML                      1 hr 6 mins     >------------------------   03.62 %
-JSON                      44 mins         >------------------------   02.42 %
-Gradle                    39 mins         >------------------------   02.12 %
-Docker                    37 mins         >------------------------   02.01 %
+Java                      15 hrs 5 mins   >>>>>>>>>>>--------------   43.65 %
+C#                        11 hrs 8 mins   >>>>>>>>-----------------   32.18 %
+TypeScript                2 hrs 24 mins   >>-----------------------   06.98 %
+YAML                      1 hr 6 mins     >------------------------   03.23 %
+JSON                      1 hr 1 min      >------------------------   02.95 %
+Gradle                    39 mins         -------------------------   01.89 %
 ```
 
 <!--END_SECTION:waka-->
