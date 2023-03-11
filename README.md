@@ -44,12 +44,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2023 - To: 09 March 2023
+From: 03 March 2023 - To: 10 March 2023
 
-Total Time: 5 hrs 9 mins
+Total Time: 4 hrs 18 mins
 
-C#           1 hr 36 mins    >>>>>>>>-----------------   31.10 %
-Other        52 mins         >>>>---------------------   17.09 %
+C#           1 hr 36 mins    >>>>>>>>>----------------   37.26 %
+YAML         42 mins         >>>>---------------------   16.41 %
+Other        40 mins         >>>>---------------------   15.78 %
 ```
 
 <!--END_SECTION:waka-->
