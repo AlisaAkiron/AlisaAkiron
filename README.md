@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
-Total Time: 5 hrs 12 mins
+Total Time: 5 hrs 17 mins
 
-CMake         2 hrs 8 mins    >>>>>>>>>>---------------   41.12 %
-C++           2 hrs 7 mins    >>>>>>>>>>---------------   40.86 %
-ObjectiveC    34 mins         >>>----------------------   10.89 %
-Java          9 mins          >------------------------   03.06 %
-JSON          4 mins          -------------------------   01.56 %
-Git Config    3 mins          -------------------------   01.08 %
+CMake         2 hrs 8 mins    >>>>>>>>>>---------------   40.44 %
+C++           2 hrs 7 mins    >>>>>>>>>>---------------   40.18 %
+ObjectiveC    34 mins         >>>----------------------   10.71 %
+Java          9 mins          >------------------------   03.01 %
+YAML          5 mins          -------------------------   01.87 %
+JSON          4 mins          -------------------------   01.54 %
 ```
 
 <!--END_SECTION:waka-->
