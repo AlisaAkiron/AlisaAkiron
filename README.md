@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 March 2023 - To: 26 March 2023
+From: 20 March 2023 - To: 27 March 2023
 
-Total Time: 10 hrs 10 mins
+Total Time: 14 hrs 55 mins
 
-C#                        4 hrs 54 mins   >>>>>>>>>>>>-------------   48.28 %
-C++                       3 hrs 13 mins   >>>>>>>>-----------------   31.78 %
-Project file properties   16 mins         >------------------------   02.74 %
-CMake                     16 mins         >------------------------   02.70 %
-Solution File             15 mins         >------------------------   02.49 %
-JSON                      14 mins         >------------------------   02.35 %
+C++                       6 hrs 8 mins    >>>>>>>>>>---------------   41.16 %
+C#                        5 hrs 55 mins   >>>>>>>>>>---------------   39.70 %
+JSON                      41 mins         >------------------------   04.68 %
+Solution File             25 mins         >------------------------   02.88 %
+CMake                     17 mins         -------------------------   01.93 %
+Project file properties   17 mins         -------------------------   01.92 %
 ```
 
 <!--END_SECTION:waka-->
