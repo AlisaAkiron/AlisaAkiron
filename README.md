@@ -44,14 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 20 April 2023
+From: 14 April 2023 - To: 21 April 2023
 
-Total Time: 5 hrs 29 mins
+Total Time: 6 hrs 59 mins
 
-YAML         3 hrs 34 mins   >>>>>>>>>>>>>>>>---------   65.10 %
-JSON         28 mins         >>-----------------------   08.59 %
-Markdown     24 mins         >>-----------------------   07.35 %
-Other        19 mins         >------------------------   05.86 %
+YAML                      3 hrs 35 mins   >>>>>>>>>>>>>------------   51.31 %
+C++                       1 hr 42 mins    >>>>>>-------------------   24.46 %
+CMake                     32 mins         >>-----------------------   07.85 %
+Markdown                  24 mins         >------------------------   05.82 %
+C#                        20 mins         >------------------------   04.92 %
+XML                       8 mins          >------------------------   02.07 %
 ```
 
 <!--END_SECTION:waka-->
