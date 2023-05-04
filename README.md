@@ -44,13 +44,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 26 April 2023 - To: 03 May 2023
 
-Total Time: 9 hrs 54 mins
+Total Time: 8 hrs 50 mins
 
-YAML         2 hrs 56 mins   >>>>>>>------------------   29.74 %
-C++          2 hrs 28 mins   >>>>>>-------------------   24.92 %
-Other        1 hr 32 mins    >>>>---------------------   15.54 %
+YAML         2 hrs 56 mins   >>>>>>>>-----------------   33.32 %
+Other        1 hr 32 mins    >>>>---------------------   17.41 %
 ```
 
 <!--END_SECTION:waka-->
