@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2023 - To: 13 May 2023
+From: 07 May 2023 - To: 14 May 2023
 
-Total Time: 19 hrs 56 mins
+Total Time: 21 hrs 28 mins
 
-YAML             10 hrs 16 mins  >>>>>>>>>>>>>------------   51.51 %
-C#               3 hrs 3 mins    >>>>---------------------   15.37 %
-HTML             2 hrs 44 mins   >>>----------------------   13.74 %
-Other            2 hrs 25 mins   >>>----------------------   12.17 %
-Python           31 mins         >------------------------   02.63 %
+YAML             8 hrs 31 mins   >>>>>>>>>>---------------   39.74 %
+HTML             5 hrs 41 mins   >>>>>>>------------------   26.54 %
+C#               3 hrs 3 mins    >>>>---------------------   14.27 %
+Other            2 hrs 34 mins   >>>----------------------   12.02 %
+Python           31 mins         >------------------------   02.44 %
 ```
 
 <!--END_SECTION:waka-->
