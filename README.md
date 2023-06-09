@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 07 June 2023
+From: 01 June 2023 - To: 08 June 2023
 
-Total Time: 3 hrs 23 mins
+Total Time: 6 hrs 5 mins
 
-YAML                      1 hr 18 mins    >>>>>>>>>>---------------   38.77 %
-Kotlin                    26 mins         >>>----------------------   13.29 %
-Java                      25 mins         >>>----------------------   12.70 %
-JSON                      22 mins         >>>----------------------   11.16 %
-Bash                      20 mins         >>-----------------------   09.85 %
+Java                      2 hrs 49 mins   >>>>>>>>>>>>-------------   46.36 %
+JSON                      30 mins         >>-----------------------   08.27 %
+Groovy                    28 mins         >>-----------------------   07.93 %
+Kotlin                    27 mins         >>-----------------------   07.48 %
+Gradle                    18 mins         >------------------------   05.03 %
 ```
 
 <!--END_SECTION:waka-->
