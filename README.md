@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2023 - To: 18 June 2023
+From: 12 June 2023 - To: 19 June 2023
 
-Total Time: 7 hrs
+Total Time: 6 hrs 42 mins
 
-Java         4 hrs 39 mins   >>>>>>>>>>>>>>>>>--------   66.46 %
-Markdown     55 mins         >>>----------------------   13.29 %
-Other        33 mins         >>-----------------------   08.09 %
-Vue.js       19 mins         >------------------------   04.73 %
-JSON         13 mins         >------------------------   03.13 %
+Java         4 hrs 39 mins   >>>>>>>>>>>>>>>>>--------   69.42 %
+Markdown     55 mins         >>>----------------------   13.88 %
+Other        36 mins         >>-----------------------   08.95 %
+JSON         13 mins         >------------------------   03.26 %
+Properties   11 mins         >------------------------   02.75 %
 ```
 
 <!--END_SECTION:waka-->
