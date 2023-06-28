@@ -44,11 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2023 - To: 26 June 2023
+From: 20 June 2023 - To: 27 June 2023
 
-Total Time: 2 mins
+Total Time: 28 mins
 
-Other   2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C#               14 mins         >>>>>>>>>>>>>------------   50.23 %
+Other            9 mins          >>>>>>>>>----------------   34.62 %
+PowerShell       1 min           >------------------------   05.69 %
+INI              0 secs          >------------------------   03.23 %
+GitIgnore file   0 secs          >------------------------   02.78 %
 ```
 
 <!--END_SECTION:waka-->
