@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2023 - To: 02 July 2023
+From: 26 June 2023 - To: 03 July 2023
 
-Total Time: 4 hrs 6 mins
+Total Time: 10 hrs 51 mins
 
-C#                        2 hrs 5 mins    >>>>>>>>>>>>>------------   50.81 %
-Project file properties   32 mins         >>>----------------------   13.23 %
-Csproj                    17 mins         >>-----------------------   06.95 %
-Other                     16 mins         >>-----------------------   06.83 %
-YAML                      9 mins          >------------------------   03.91 %
+C#                        8 hrs 1 min     >>>>>>>>>>>>>>>>>>-------   73.91 %
+Project file properties   32 mins         >------------------------   04.99 %
+Binary                    25 mins         >------------------------   03.96 %
+Other                     24 mins         >------------------------   03.72 %
+XML                       23 mins         >------------------------   03.61 %
 ```
 
 <!--END_SECTION:waka-->
