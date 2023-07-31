@@ -35,6 +35,9 @@
 - Blog: [https://www.alisaqaq.moe/](https://www.alisaqaq.moe/)
 - Bilibili: [@UD_Mr_Creeper](https://space.bilibili.com/5627849)
 
+- [GPG Public Key](pgp_keys.asc)
+- GPG Public Key Fingerprint: `23B8 37CF 0D5C 91E4 04F0  6B14 8FCD F42E C5DD 89D6`
+
 ## 📚 **My GitHub**
 
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamSho&langs_count=6&layout=compact)
