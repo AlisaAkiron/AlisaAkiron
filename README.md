@@ -45,4 +45,17 @@
 ![GitHub](https://github-readme-stats.vercel.app/api?username=LiamSho&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 July 2023 - To: 30 July 2023
+
+Total Time: 27 hrs 47 mins
+
+YAML                       9 hrs 20 mins   >>>>>>>>-----------------   33.62 %
+C#                         4 hrs 55 mins   >>>>---------------------   17.69 %
+Bash                       4 hrs 6 mins    >>>>---------------------   14.79 %
+INI                        2 hrs 16 mins   >>-----------------------   08.18 %
+PHP                        1 hr 59 mins    >>-----------------------   07.16 %
+```
+
 <!--END_SECTION:waka-->
