@@ -47,15 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2023 - To: 01 August 2023
+From: 26 July 2023 - To: 02 August 2023
 
-Total Time: 29 hrs 27 mins
+Total Time: 29 hrs 10 mins
 
-C#                        9 hrs 53 mins   >>>>>>>>-----------------   33.59 %
-YAML                      9 hrs 44 mins   >>>>>>>>-----------------   33.06 %
-PHP                       3 hrs 1 min     >>>----------------------   10.24 %
-Bash                      2 hrs 16 mins   >>-----------------------   07.70 %
-Text                      1 hr 2 mins     >------------------------   03.56 %
+C#                         13 hrs 4 mins   >>>>>>>>>>>--------------   44.84 %
+YAML                       7 hrs 19 mins   >>>>>>-------------------   25.09 %
+PHP                        3 hrs 23 mins   >>>----------------------   11.62 %
+Bash                       1 hr 25 mins    >------------------------   04.89 %
+Text                       1 hr 21 mins    >------------------------   04.65 %
 ```
 
 <!--END_SECTION:waka-->
