@@ -47,15 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2023 - To: 13 August 2023
+From: 07 August 2023 - To: 14 August 2023
 
-Total Time: 12 hrs 14 mins
+Total Time: 7 hrs 17 mins
 
-C#                         3 hrs 2 mins    >>>>>>-------------------   24.83 %
-Other                      3 hrs           >>>>>>-------------------   24.63 %
-JSON                       1 hr 9 mins     >>-----------------------   09.50 %
-INI                        1 hr 9 mins     >>-----------------------   09.42 %
-Bash                       1 hr 9 mins     >>-----------------------   09.41 %
+C#                         2 hrs 46 mins   >>>>>>>>>----------------   37.96 %
+JSON                       51 mins         >>>----------------------   11.73 %
+YAML                       47 mins         >>>----------------------   10.83 %
+Bash                       36 mins         >>-----------------------   08.32 %
+Go                         35 mins         >>-----------------------   08.10 %
 ```
 
 <!--END_SECTION:waka-->
