@@ -47,15 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2023 - To: 15 August 2023
+From: 09 August 2023 - To: 16 August 2023
 
-Total Time: 3 hrs 1 min
+Total Time: 3 hrs 41 mins
 
-C#                        1 hr 18 mins    >>>>>>>>>>>--------------   43.34 %
-YAML                      48 mins         >>>>>>>------------------   26.59 %
-JSON                      20 mins         >>>----------------------   11.45 %
-Other                     18 mins         >>>----------------------   10.14 %
-SSH Config                10 mins         >>-----------------------   06.07 %
+C#                        1 hr 22 mins    >>>>>>>>>----------------   37.13 %
+YAML                      1 hr 3 mins     >>>>>>>------------------   28.70 %
+JSON                      20 mins         >>-----------------------   09.36 %
+Other                     19 mins         >>-----------------------   08.94 %
+Bash                      19 mins         >>-----------------------   08.89 %
 ```
 
 <!--END_SECTION:waka-->
