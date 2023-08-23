@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2023 - To: 21 August 2023
+From: 15 August 2023 - To: 22 August 2023
 
-Total Time: 13 hrs 20 mins
+Total Time: 18 hrs 39 mins
 
-YAML                       7 hrs 11 mins   >>>>>>>>>>>>>------------   53.84 %
-Bash                       2 hrs 57 mins   >>>>>>-------------------   22.16 %
-Siyuan                     1 hr 3 mins     >>-----------------------   07.91 %
-HTML                       25 mins         >------------------------   03.25 %
-Markdown                   22 mins         >------------------------   02.75 %
+YAML                       10 hrs 31 mins  >>>>>>>>>>>>>>-----------   56.36 %
+Bash                       2 hrs 58 mins   >>>>---------------------   15.94 %
+Siyuan                     2 hrs 49 mins   >>>>---------------------   15.11 %
+ActionScript 3             33 mins         >------------------------   03.02 %
+HTML                       25 mins         >------------------------   02.32 %
 ```
 
 <!--END_SECTION:waka-->
