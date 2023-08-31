@@ -50,14 +50,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2023 - To: 29 August 2023
+From: 23 August 2023 - To: 30 August 2023
 
-Total Time: 25 hrs 49 mins
+Total Time: 25 hrs 32 mins
 
-YAML                      22 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.56 %
-Docker                    1 hr 50 mins    >>-----------------------   07.16 %
-Bash                      31 mins         >------------------------   02.00 %
-Markdown                  24 mins         -------------------------   01.61 %
+YAML                      21 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>----   85.62 %
+Docker                    1 hr 50 mins    >>-----------------------   07.24 %
+Markdown                  35 mins         >------------------------   02.33 %
+Bash                      32 mins         >------------------------   02.13 %
 ActionScript 3            20 mins         -------------------------   01.35 %
 ```
 
