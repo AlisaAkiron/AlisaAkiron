@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
-Total Time: 5 hrs 55 mins
+Total Time: 6 hrs 37 mins
 
-C#                2 hrs 50 mins   >>>>>>>>>>>>-------------   47.92 %
-YAML              2 hrs 22 mins   >>>>>>>>>>---------------   40.03 %
-SQL               18 mins         >------------------------   05.16 %
-ActionScript      4 mins          -------------------------   01.38 %
-Properties        4 mins          -------------------------   01.28 %
+YAML                      3 hrs 11 mins   >>>>>>>>>>>>-------------   48.30 %
+C#                        2 hrs 31 mins   >>>>>>>>>>---------------   38.15 %
+GitIgnore file            21 mins         >------------------------   05.45 %
+SQL                       18 mins         >------------------------   04.62 %
+Csproj                    5 mins          -------------------------   01.41 %
 ```
 
 <!--END_SECTION:waka-->
