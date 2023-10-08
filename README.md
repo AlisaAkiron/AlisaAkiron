@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2023 - To: 02 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Total Time: 5 hrs
+Total Time: 6 hrs 21 mins
 
-Bash                       1 hr 19 mins    >>>>>>>------------------   26.46 %
-YAML                       1 hr 1 min      >>>>>--------------------   20.32 %
-C#                         42 mins         >>>>---------------------   14.00 %
-Nginx configuration file   36 mins         >>>----------------------   12.27 %
-Text                       28 mins         >>-----------------------   09.52 %
+C#                        2 hrs 32 mins   >>>>>>>>>>---------------   39.84 %
+ObjectiveC                1 hr 5 mins     >>>>---------------------   17.15 %
+C                         39 mins         >>>----------------------   10.28 %
+CMake                     35 mins         >>-----------------------   09.35 %
+C++                       31 mins         >>-----------------------   08.25 %
 ```
 
 <!--END_SECTION:waka-->
