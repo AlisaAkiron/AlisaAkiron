@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
-Total Time: 6 hrs 21 mins
+Total Time: 13 hrs 1 min
 
-C#                        2 hrs 32 mins   >>>>>>>>>>---------------   39.84 %
-ObjectiveC                1 hr 5 mins     >>>>---------------------   17.15 %
-C                         39 mins         >>>----------------------   10.28 %
-CMake                     35 mins         >>-----------------------   09.35 %
-C++                       31 mins         >>-----------------------   08.25 %
+C#                        2 hrs 34 mins   >>>>>--------------------   19.71 %
+Java                      1 hr 36 mins    >>>----------------------   12.39 %
+Markdown                  1 hr 36 mins    >>>----------------------   12.31 %
+ObjectiveC                1 hr 5 mins     >>-----------------------   08.38 %
+YAML                      44 mins         >------------------------   05.67 %
 ```
 
 <!--END_SECTION:waka-->
