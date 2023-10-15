@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2023 - To: 13 October 2023
+From: 07 October 2023 - To: 14 October 2023
 
-Total Time: 46 hrs 4 mins
+Total Time: 40 hrs 43 mins
 
-Vue.js                    18 hrs 14 mins  >>>>>>>>>>---------------   39.58 %
-C#                        10 hrs 53 mins  >>>>>>-------------------   23.64 %
-TypeScript                2 hrs 23 mins   >------------------------   05.19 %
-JSON                      1 hr 48 mins    >------------------------   03.91 %
-Markdown                  1 hr 45 mins    >------------------------   03.80 %
+Vue.js                    18 hrs 14 mins  >>>>>>>>>>>--------------   44.78 %
+C#                        9 hrs 11 mins   >>>>>>-------------------   22.58 %
+TypeScript                2 hrs 22 mins   >------------------------   05.81 %
+Markdown                  1 hr 44 mins    >------------------------   04.28 %
+JSON                      1 hr 40 mins    >------------------------   04.13 %
 ```
 
 <!--END_SECTION:waka-->
