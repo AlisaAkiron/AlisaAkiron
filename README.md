@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2023 - To: 18 October 2023
+From: 12 October 2023 - To: 19 October 2023
 
-Total Time: 19 hrs 6 mins
+Total Time: 13 hrs 18 mins
 
-Vue.js                    6 hrs 2 mins    >>>>>>>>-----------------   31.58 %
-C#                        5 hrs 15 mins   >>>>>>>------------------   27.51 %
-YAML                      3 hrs 43 mins   >>>>>--------------------   19.52 %
-DNS Zone                  42 mins         >------------------------   03.71 %
-JSON                      33 mins         >------------------------   02.95 %
+YAML                      4 hrs 25 mins   >>>>>>>>-----------------   33.22 %
+C#                        2 hrs 59 mins   >>>>>>-------------------   22.43 %
+Vue.js                    2 hrs 19 mins   >>>>---------------------   17.49 %
+DNS Zone                  42 mins         >------------------------   05.32 %
+INI                       27 mins         >------------------------   03.47 %
 ```
 
 <!--END_SECTION:waka-->
