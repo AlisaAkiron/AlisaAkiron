@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2023 - To: 07 November 2023
+From: 03 November 2023 - To: 10 November 2023
 
-Total Time: 23 hrs 28 mins
+Total Time: 10 hrs 24 mins
 
-YAML                            10 hrs 27 mins  >>>>>>>>>>>--------------   44.56 %
-C#                              7 hrs 57 mins   >>>>>>>>-----------------   33.90 %
-JSON                            2 hrs 39 mins   >>>----------------------   11.32 %
-TypeScript                      35 mins         >------------------------   02.52 %
-Bash                            17 mins         -------------------------   01.26 %
+YAML                       7 hrs 25 mins   >>>>>>>>>>>>>>>>>>-------   71.39 %
+JSON                       1 hr 54 mins    >>>>>--------------------   18.30 %
+C#                         37 mins         >>-----------------------   06.01 %
+Project file properties    14 mins         >------------------------   02.32 %
+HTML                       4 mins          -------------------------   00.68 %
 ```
 
 <!--END_SECTION:waka-->
