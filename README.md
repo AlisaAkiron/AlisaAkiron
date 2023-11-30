@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-Total Time: 36 hrs 30 mins
+Total Time: 37 hrs 21 mins
 
-C#                        23 hrs 22 mins  >>>>>>>>>>>>>>>>---------   64.01 %
-YAML                      3 hrs 28 mins   >>-----------------------   09.51 %
-Python                    1 hr 28 mins    >------------------------   04.03 %
-JSON                      1 hr 27 mins    >------------------------   04.01 %
-Docker                    1 hr 27 mins    >------------------------   03.98 %
+C#                        21 hrs 1 min    >>>>>>>>>>>>>>-----------   56.30 %
+YAML                      4 hrs 28 mins   >>>----------------------   11.97 %
+Other                     1 hr 38 mins    >------------------------   04.41 %
+JSON                      1 hr 37 mins    >------------------------   04.36 %
+Python                    1 hr 28 mins    >------------------------   03.94 %
 ```
 
 <!--END_SECTION:waka-->
