@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2023 - To: 14 December 2023
+From: 08 December 2023 - To: 15 December 2023
 
-Total Time: 26 hrs 28 mins
+Total Time: 26 hrs 43 mins
 
-C#                        20 hrs 10 mins  >>>>>>>>>>>>>>>>>>>------   76.21 %
-CSHTML                    1 hr 9 mins     >------------------------   04.38 %
-Gettext Catalog           58 mins         >------------------------   03.65 %
-YAML                      51 mins         >------------------------   03.24 %
-Markdown                  49 mins         >------------------------   03.10 %
+C#                        21 hrs 39 mins  >>>>>>>>>>>>>>>>>>>>-----   81.06 %
+XML                       50 mins         >------------------------   03.14 %
+Csproj                    46 mins         >------------------------   02.90 %
+Gettext Catalog           43 mins         >------------------------   02.71 %
+Markdown                  43 mins         >------------------------   02.70 %
 ```
 
 <!--END_SECTION:waka-->
