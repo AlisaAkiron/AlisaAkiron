@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2023 - To: 24 December 2023
+From: 18 December 2023 - To: 25 December 2023
 
-Total Time: 12 hrs 59 mins
+Total Time: 12 hrs 50 mins
 
-C#                        8 hrs 59 mins   >>>>>>>>>>>>>>>>>--------   69.23 %
-YAML                      2 hrs 11 mins   >>>>---------------------   16.92 %
-Jupyter                   1 hr 9 mins     >>-----------------------   08.86 %
-PowerShell                14 mins         -------------------------   01.90 %
-SQL                       6 mins          -------------------------   00.86 %
+C#                        8 hrs 10 mins   >>>>>>>>>>>>>>>>---------   63.66 %
+YAML                      2 hrs 45 mins   >>>>>--------------------   21.55 %
+Jupyter                   1 hr 9 mins     >>-----------------------   08.97 %
+SQL                       22 mins         >------------------------   02.93 %
+Csproj                    7 mins          -------------------------   00.93 %
 ```
 
 <!--END_SECTION:waka-->
