@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-Total Time: 10 hrs 46 mins
+Total Time: 19 hrs 37 mins
 
-Vue.js            3 hrs 35 mins   >>>>>>>>-----------------   33.33 %
-C#                2 hrs 33 mins   >>>>>>-------------------   23.79 %
-TypeScript        1 hr 39 mins    >>>>---------------------   15.38 %
-JSON              52 mins         >>-----------------------   08.12 %
-Python            39 mins         >>-----------------------   06.15 %
+C#                        4 hrs 32 mins   >>>>>>-------------------   23.16 %
+TypeScript                3 hrs 59 mins   >>>>>--------------------   20.33 %
+Vue.js                    3 hrs 40 mins   >>>>>--------------------   18.73 %
+JavaScript                2 hrs 11 mins   >>>----------------------   11.16 %
+JSON                      2 hrs 10 mins   >>>----------------------   11.12 %
 ```
 
 <!--END_SECTION:waka-->
