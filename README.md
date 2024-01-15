@@ -2,10 +2,12 @@
 
 ![Total Visitors](https://count.getloli.com/get/@LiamSho?theme=gelbooru)
 
-## I'm **Alisa (aka. Liam Sho)**
+## I'm **Alisa Akiron**
 
+- Alisa Akiron is the name of my OC and as well as my online alias.
+- Or, you can call me Liam Sho.
 - I am working as a software developer and cloud solution specialist.
-- I am learning Unity Engine, Game Design and Cloud Security.
+- I am learning GoDot, Game Design, High Availablity and Cloud Security.
 
 ## 🚉 **Tools & Platforms**
 
