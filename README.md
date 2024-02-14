@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2024 - To: 12 February 2024
+From: 06 February 2024 - To: 13 February 2024
 
-Total Time: 12 hrs 51 mins
+Total Time: 8 hrs 33 mins
 
-Other             9 hrs 18 mins   >>>>>>>>>>>>>>>>>>-------   72.43 %
-YAML              47 mins         >>-----------------------   06.17 %
-Docker            38 mins         >------------------------   05.05 %
-Bash              37 mins         >------------------------   04.92 %
-INI               34 mins         >------------------------   04.44 %
+Other             5 hrs 41 mins   >>>>>>>>>>>>>>>>>--------   66.59 %
+YAML              46 mins         >>-----------------------   09.14 %
+Bash              37 mins         >>-----------------------   07.34 %
+INI               34 mins         >>-----------------------   06.67 %
+Docker            18 mins         >------------------------   03.59 %
 ```
 
 <!--END_SECTION:waka-->
