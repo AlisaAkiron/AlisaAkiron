@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 22 hrs 50 mins
+Total Time: 15 hrs 17 mins
 
-YAML                      14 hrs 9 mins   >>>>>>>>>>>>>>>----------   61.96 %
-Bash                      3 hrs 23 mins   >>>>---------------------   14.85 %
-Docker                    1 hr 29 mins    >>-----------------------   06.53 %
-C#                        1 hr 20 mins    >------------------------   05.88 %
-Markdown                  44 mins         >------------------------   03.28 %
+YAML                      10 hrs 31 mins  >>>>>>>>>>>>>>>>>--------   68.83 %
+Bash                      1 hr 13 mins    >>-----------------------   08.01 %
+Docker                    51 mins         >------------------------   05.65 %
+Markdown                  41 mins         >------------------------   04.49 %
+C#                        30 mins         >------------------------   03.29 %
 ```
 
 <!--END_SECTION:waka-->
