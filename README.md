@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2024 - To: 04 March 2024
+From: 27 February 2024 - To: 05 March 2024
 
-Total Time: 24 hrs 11 mins
+Total Time: 24 hrs 15 mins
 
-C#                         12 hrs 40 mins  >>>>>>>>>>>>>------------   52.43 %
-YAML                       2 hrs 21 mins   >>-----------------------   09.77 %
-JSON                       1 hr 8 mins     >------------------------   04.72 %
-JavaScript                 1 hr 4 mins     >------------------------   04.42 %
-Other                      45 mins         >------------------------   03.14 %
+Rust                       7 hrs 36 mins   >>>>>>>>-----------------   31.35 %
+C#                         5 hrs 56 mins   >>>>>>-------------------   24.49 %
+YAML                       2 hrs 21 mins   >>-----------------------   09.71 %
+JSON                       1 hr 9 mins     >------------------------   04.75 %
+JavaScript                 1 hr 4 mins     >------------------------   04.41 %
 ```
 
 <!--END_SECTION:waka-->
