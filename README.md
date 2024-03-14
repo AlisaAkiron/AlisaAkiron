@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
-Total Time: 24 hrs 22 mins
+Total Time: 16 hrs 1 min
 
-Rust                      12 hrs 16 mins  >>>>>>>>>>>>>------------   50.39 %
-YAML                      3 hrs 4 mins    >>>----------------------   12.64 %
-TOML                      2 hrs 39 mins   >>>----------------------   10.93 %
-C#                        2 hrs 33 mins   >>>----------------------   10.49 %
-Docker                    2 hrs 5 mins    >>-----------------------   08.57 %
+Rust                      6 hrs 36 mins   >>>>>>>>>>---------------   41.20 %
+YAML                      3 hrs           >>>>>--------------------   18.82 %
+C#                        1 hr 54 mins    >>>----------------------   11.91 %
+Docker                    1 hr 38 mins    >>>----------------------   10.25 %
+TOML                      1 hr 31 mins    >>-----------------------   09.53 %
 ```
 
 <!--END_SECTION:waka-->
