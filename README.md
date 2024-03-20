@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2024 - To: 18 March 2024
+From: 12 March 2024 - To: 19 March 2024
 
-Total Time: 27 hrs 50 mins
+Total Time: 24 hrs 5 mins
 
-C#                        17 hrs 8 mins   >>>>>>>>>>>>>>>----------   61.56 %
-SQL                       6 hrs 16 mins   >>>>>>-------------------   22.52 %
-XML                       2 hrs 7 mins    >>-----------------------   07.62 %
-YAML                      44 mins         >------------------------   02.65 %
-JSON                      25 mins         -------------------------   01.54 %
+C#                        11 hrs 24 mins  >>>>>>>>>>>>-------------   47.33 %
+SQL                       6 hrs 16 mins   >>>>>>>------------------   26.01 %
+XML                       2 hrs 42 mins   >>>----------------------   11.23 %
+Markdown                  1 hr 51 mins    >>-----------------------   07.70 %
+YAML                      46 mins         >------------------------   03.23 %
 ```
 
 <!--END_SECTION:waka-->
