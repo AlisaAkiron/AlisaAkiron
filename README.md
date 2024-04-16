@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-Total Time: 25 hrs 42 mins
+Total Time: 22 hrs 21 mins
 
-YAML             9 hrs 43 mins   >>>>>>>>>----------------   37.84 %
-TypeScript       5 hrs 15 mins   >>>>>--------------------   20.45 %
-C#               2 hrs 39 mins   >>>----------------------   10.34 %
-Bash             2 hrs 31 mins   >>-----------------------   09.82 %
-Markdown         2 hrs 12 mins   >>-----------------------   08.60 %
+YAML             8 hrs 46 mins   >>>>>>>>>>---------------   39.26 %
+TypeScript       5 hrs 15 mins   >>>>>>-------------------   23.52 %
+C#               2 hrs 39 mins   >>>----------------------   11.89 %
+Markdown         2 hrs 12 mins   >>-----------------------   09.89 %
+Blazor           37 mins         >------------------------   02.78 %
 ```
 
 <!--END_SECTION:waka-->
