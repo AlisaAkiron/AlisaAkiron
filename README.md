@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2024 - To: 26 April 2024
+From: 20 April 2024 - To: 27 April 2024
 
-Total Time: 14 hrs 38 mins
+Total Time: 14 hrs 6 mins
 
-YAML              7 hrs 59 mins   >>>>>>>>>>>>>>-----------   54.62 %
-C#                3 hrs 49 mins   >>>>>>>------------------   26.17 %
-JSON              1 hr 4 mins     >>-----------------------   07.34 %
-Java Properties   20 mins         >------------------------   02.31 %
-TOML              19 mins         >------------------------   02.24 %
+YAML              7 hrs 45 mins   >>>>>>>>>>>>>>-----------   54.92 %
+C#                3 hrs 49 mins   >>>>>>>------------------   27.13 %
+JSON              59 mins         >>-----------------------   07.01 %
+Java Properties   20 mins         >------------------------   02.39 %
+TOML              19 mins         >------------------------   02.28 %
 ```
 
 <!--END_SECTION:waka-->
