@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2024 - To: 30 April 2024
+From: 24 April 2024 - To: 01 May 2024
 
-Total Time: 11 hrs 2 mins
+Total Time: 10 hrs 14 mins
 
-C#                        4 hrs 51 mins   >>>>>>>>>>>--------------   44.08 %
-YAML                      3 hrs 59 mins   >>>>>>>>>----------------   36.15 %
-Project file properties   57 mins         >>-----------------------   08.67 %
-Smarty                    22 mins         >------------------------   03.33 %
-Csproj                    9 mins          -------------------------   01.50 %
+C#                        4 hrs 50 mins   >>>>>>>>>>>>-------------   47.24 %
+YAML                      2 hrs 33 mins   >>>>>>-------------------   24.92 %
+Project file properties   57 mins         >>-----------------------   09.42 %
+Config                    26 mins         >------------------------   04.31 %
+Smarty                    22 mins         >------------------------   03.58 %
 ```
 
 <!--END_SECTION:waka-->
