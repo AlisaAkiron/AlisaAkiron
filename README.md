@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2024 - To: 06 May 2024
+From: 30 April 2024 - To: 07 May 2024
 
-Total Time: 1 hr 57 mins
+Total Time: 3 hrs 5 mins
 
-YAML                      1 hr 23 mins    >>>>>>>>>>>>>>>>>>-------   70.77 %
-Nix                       26 mins         >>>>>>-------------------   22.64 %
-Project file properties   4 mins          >------------------------   03.39 %
-Other                     1 min           -------------------------   01.19 %
-SQL                       1 min           -------------------------   01.01 %
+YAML                      1 hr 27 mins    >>>>>>>>>>>>-------------   47.09 %
+Nix                       26 mins         >>>>---------------------   14.38 %
+Docker                    26 mins         >>>>---------------------   14.21 %
+Text                      16 mins         >>-----------------------   08.65 %
+Other                     13 mins         >>-----------------------   07.35 %
 ```
 
 <!--END_SECTION:waka-->
