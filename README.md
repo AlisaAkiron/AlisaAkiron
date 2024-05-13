@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2024 - To: 11 May 2024
+From: 05 May 2024 - To: 12 May 2024
 
-Total Time: 9 hrs 59 mins
+Total Time: 10 hrs 23 mins
 
-Bash                       3 hrs 35 mins   >>>>>>>>>----------------   35.92 %
-YAML                       2 hrs 54 mins   >>>>>>>------------------   29.06 %
-Terraform                  1 hr 2 mins     >>>----------------------   10.37 %
-Docker                     45 mins         >>-----------------------   07.64 %
-Text                       16 mins         >------------------------   02.68 %
+Bash                       3 hrs 44 mins   >>>>>>>>>----------------   36.05 %
+YAML                       2 hrs 59 mins   >>>>>>>------------------   28.75 %
+Terraform                  1 hr 2 mins     >>-----------------------   09.96 %
+Docker                     45 mins         >>-----------------------   07.34 %
+Other                      19 mins         >------------------------   03.12 %
 ```
 
 <!--END_SECTION:waka-->
