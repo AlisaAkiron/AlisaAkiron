@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2024 - To: 15 May 2024
+From: 09 May 2024 - To: 16 May 2024
 
-Total Time: 26 hrs 37 mins
+Total Time: 25 hrs 31 mins
 
-TypeScript                 7 hrs 32 mins   >>>>>>>------------------   28.30 %
-SQL                        5 hrs 52 mins   >>>>>>-------------------   22.09 %
-Bash                       3 hrs 37 mins   >>>----------------------   13.60 %
-C#                         3 hrs 4 mins    >>>----------------------   11.57 %
-YAML                       1 hr 52 mins    >>-----------------------   07.04 %
+TypeScript                 8 hrs 13 mins   >>>>>>>>-----------------   32.22 %
+SQL                        5 hrs 52 mins   >>>>>>-------------------   23.04 %
+Bash                       3 hrs 37 mins   >>>>---------------------   14.18 %
+C#                         2 hrs 52 mins   >>>----------------------   11.29 %
+YAML                       1 hr 19 mins    >------------------------   05.19 %
 ```
 
 <!--END_SECTION:waka-->
