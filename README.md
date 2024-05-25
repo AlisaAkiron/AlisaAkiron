@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2024 - To: 23 May 2024
+From: 17 May 2024 - To: 24 May 2024
 
-Total Time: 19 hrs 50 mins
+Total Time: 22 hrs 5 mins
 
-C#                        6 hrs 35 mins   >>>>>>>>-----------------   33.25 %
-Terraform                 4 hrs 11 mins   >>>>>--------------------   21.12 %
-YAML                      3 hrs           >>>>---------------------   15.17 %
-Python                    1 hr 58 mins    >>-----------------------   09.95 %
-TypeScript                1 hr 42 mins    >>-----------------------   08.60 %
+TypeScript                6 hrs 19 mins   >>>>>>>------------------   28.62 %
+Terraform                 4 hrs 11 mins   >>>>>--------------------   18.97 %
+C#                        4 hrs 6 mins    >>>>>--------------------   18.57 %
+YAML                      2 hrs 10 mins   >>-----------------------   09.83 %
+Python                    1 hr 58 mins    >>-----------------------   08.94 %
 ```
 
 <!--END_SECTION:waka-->
