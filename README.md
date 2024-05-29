@@ -90,8 +90,26 @@
 
 ## 📚 **My GitHub**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlisaAkiron&show_icons=true&count_private=true#gh-light-mode-only"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisaAkiron&langs_count=8&exclude_repo=PLCSmartLock&layout=compact#gh-light-mode-only" />
-<!-- Dark Mode -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlisaAkiron&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisaAkiron&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark#gh-dark-mode-only" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AlisaAkiron&show_icons=true&count_private=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AlisaAkiron&show_icons=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlisaAkiron&show_icons=true&count_private=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisaAkiron&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisaAkiron&langs_count=8&exclude_repo=PLCSmartLock&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisaAkiron&langs_count=8&exclude_repo=PLCSmartLock&layout=compact" />
+</picture>
