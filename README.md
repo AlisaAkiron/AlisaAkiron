@@ -95,19 +95,3 @@
 <!-- Dark Mode -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlisaAkiron&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisaAkiron&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark#gh-dark-mode-only" />
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 21 May 2024 - To: 28 May 2024
-
-Total Time: 20 hrs 7 mins
-
-TypeScript                7 hrs 24 mins   >>>>>>>>>----------------   36.77 %
-C#                        3 hrs 58 mins   >>>>>--------------------   19.74 %
-YAML                      2 hrs 26 mins   >>>----------------------   12.13 %
-Python                    1 hr 58 mins    >>-----------------------   09.81 %
-Terraform                 1 hr 28 mins    >>-----------------------   07.32 %
-```
-
-<!--END_SECTION:waka-->
