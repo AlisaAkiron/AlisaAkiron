@@ -1,7 +1,5 @@
 # Hi (　ﾟ∀ﾟ) ﾉ♡
 
-![Total Visitors](https://count.getloli.com/get/@LiamSho?theme=gelbooru)
-
 ## I'm **Alisa Akiron**
 
 - Alisa Akiron is the name of my OC and as well as my online alias.
@@ -45,9 +43,9 @@
 
 ## 📚 **My GitHub**
 
-![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamSho&langs_count=6&layout=compact)
+![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlisaAkiron&langs_count=6&layout=compact)
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=LiamSho&count_private=true&show_icons=true)
+![GitHub](https://github-readme-stats.vercel.app/api?username=AlisaAkiron&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
 
