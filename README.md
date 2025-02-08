@@ -12,14 +12,12 @@
 
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=fff)
-![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=fff)
 ![NixOS](https://img.shields.io/badge/-NixOS%28learning%29-5277C3?style=flat-square&logo=nixos&logoColor=fff)
 
 **IDE & Editor**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
 ![Rider](https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=rider&logoColor=fff)
-![Rider](https://img.shields.io/badge/-DataGrip-000000?style=flat-square&logo=datagrip&logoColor=fff)
 ![NeoVIM](https://img.shields.io/badge/-NeoVim-649047?style=flat-square&logo=neovim&logoColor=fff)
 
 **Server**
@@ -36,19 +34,11 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=fff)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React%28learning%29-45B8D8?style=flat-square&logo=react&logoColor=fff)
-![NextJS](https://img.shields.io/badge/-NextJS%28learning%29-000000?style=flat-square&logo=nextdotjs&logoColor=fff)
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=fff)
+![React](https://img.shields.io/badge/-React-45B8D8?style=flat-square&logo=react&logoColor=fff)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=fff)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=fff)
 ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-
-**Hardware Development**
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
-![ESP32](https://img.shields.io/badge/-Espressif%20ESP-E7352C?style=flat-square&logo=espressif&logoColor=fff)
-![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=fff)
 
 **Cloud Native & Infrastructure**
 
@@ -70,15 +60,6 @@
 ![OpenID](https://img.shields.io/badge/-OpenID%20Connect-F78C40?style=flat-square&logo=openid&logoColor=fff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-
-**Other**
-
-- Aseprite
-- Unity (2D)
-- Godot (learning)
-- Adobe Photoshop
-- DaVinci Resolve
-- Ableton Live (learning)
 
 ## ☎️ **Contact Me**
 
