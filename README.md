@@ -3,8 +3,8 @@
 ## I'm **Alisa Akiron**
 
 - Alisa Akiron is the name of my OC and as well as my online alias.
-- I am working as a software developer.
-- I am learning Godot, Frontend Development with React and Music.
+- I am working as a full-stack engineer at a leading AI startup.
+- I am learning game development and music.
 
 ## 🚉 **Tools & Platforms**
 
@@ -12,12 +12,10 @@
 
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078d6?style=flat-square)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=fff)
-![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=fff)
 
 **IDE & Editor**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square)
 ![Rider](https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=rider&logoColor=fff)
 ![NeoVIM](https://img.shields.io/badge/-NeoVim-649047?style=flat-square&logo=neovim&logoColor=fff)
 
